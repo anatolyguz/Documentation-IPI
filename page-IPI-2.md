@@ -1,7 +1,7 @@
-# Page 2
+# Page IPI 2
 
-Page 2.
+Page IPI 2.
 
-Hideez there
+IPI there
 
 ![](.gitbook/assets/IPI\_1.png)
