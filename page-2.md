@@ -4,4 +4,4 @@ Page 2.
 
 Hideez there
 
-![](.gitbook/assets/Hideez\_1.png)
+![](.gitbook/assets/IPI\_1.png)
